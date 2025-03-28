@@ -14,6 +14,7 @@ Sou estudante de Engenharia da Computação com formação técnica em Desenvolv
 - 👩‍💻 Aprendendo Análise de Dados: Explorando técnicas, ferramentas e boas práticas para transformar dados em insights valiosos.
 - 🌐 Aprendendo Front-End: Desenvolvendo interfaces web modernas e responsivas utilizando HTML, CSS, JavaScript e frameworks populares.
 - 🔙 Aprendendo Back-End: Estudando conceitos fundamentais de servidores, APIs, banco de dados e arquiteturas robustas.
+- 🤖 Aprendendo Automação: Desenvolvendo projetos de automação para otimizar processos, integrar sistemas e aumentar a produtividade.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
