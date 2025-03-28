@@ -5,9 +5,9 @@
 
 Sou estudante de Engenharia da Computação com formação técnica em Desenvolvimento de Sistemas. Atualmente, estou focado(a) em aprender e aprimorar meus conhecimentos em várias áreas da tecnologia, e compartilho meu progresso aqui. Confira o que estou estudando:
 
-- 👩‍💻 Aprendendo Análise de Dados: Explorando técnicas, ferramentas e boas práticas para transformar dados em insights valiosos.
-- 🌐 Aprendendo Front-End: Desenvolvendo interfaces web modernas e responsivas utilizando HTML, CSS, JavaScript e frameworks populares.
-- 🔙 Aprendendo Back-End: Estudando conceitos fundamentais de servidores, APIs, banco de dados e arquiteturas robustas.
+- 👩‍💻 Aprendendo Análise de Dados: Explorando técnicas, ferramentas e boas práticas para transformar dados em insights valiosos;
+- 🌐 Aprendendo Front-End: Desenvolvendo interfaces web modernas e responsivas utilizando HTML, CSS, JavaScript e frameworks populares;
+- 🔙 Aprendendo Back-End: Estudando conceitos fundamentais de servidores, APIs, banco de dados e arquiteturas robustas;
 - 🤖 Aprendendo Automação: Desenvolvendo projetos de automação para otimizar processos, integrar sistemas e aumentar a produtividade.
 
 <div>
