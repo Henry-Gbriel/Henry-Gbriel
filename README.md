@@ -1,6 +1,6 @@
 <img src = "https://github.com/user-attachments/assets/dc23140b-9ece-44d1-a746-b9ecad68bc65" width = "325px" align = "right">
 
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub! 🚀
+#  Olá! Seja bem-vindo(a) ao meu GitHub! 
 
 
 Sou estudante de Engenharia da Computação com formação técnica em Desenvolvimento de Sistemas. Atualmente, estou focado(a) em aprender e aprimorar meus conhecimentos em várias áreas da tecnologia, e compartilho meu progresso aqui. Confira o que estou estudando:
@@ -27,6 +27,6 @@ Sou estudante de Engenharia da Computação com formação técnica em Desenvolv
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Gbriel&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Henry-Gbriel&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
