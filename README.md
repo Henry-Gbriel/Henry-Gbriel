@@ -2,11 +2,15 @@
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub! 🚀
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
-    <img src="www.linkedin.com/in/henry-gabriel-santos-silva-6ba776209" alt="LinkedIn Badge"/>
+<div> 
+  <a href="https://www.instagram.com/henrygabriel.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "santossilvahenrygabriel58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/henry-gabriel-santos-silva-6ba776209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 Sou estudante de Engenharia da Computação com formação técnica em Desenvolvimento de Sistemas. Atualmente, estou focado(a) em aprender e aprimorar meus conhecimentos em várias áreas da tecnologia, e compartilho meu progresso aqui. Confira o que estou estudando:
