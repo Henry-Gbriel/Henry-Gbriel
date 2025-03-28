@@ -26,7 +26,8 @@ Sou estudante de Engenharia da Computação com formação técnica em Desenvolv
 ---
 
 
-<div align="center" style="background-color: #007bff; padding: 20px; border-radius: 10px;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Gbriel&show_icons=true&theme=blue&count_private=true" style="background-color: #007bff; padding: 10px; border-radius: 10px;" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Henry-Gbriel&show_icons=true&theme=blue&count_private=true" style="background-color: #007bff; padding: 10px; border-radius: 10px;" />
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Gbriel&show_icons=true&theme=dark&count_private=true" style="background-color: #000; padding: 10px; border-radius: 10px;" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Henry-Gbriel&show_icons=true&theme=dark&count_private=true" style="background-color: #000; padding: 10px; border-radius: 10px;" />
 </div>
+
