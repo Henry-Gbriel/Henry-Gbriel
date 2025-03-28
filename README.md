@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "https://github.com/user-attachments/assets/dc23140b-9ece-44d1-a746-b9ecad68bc65" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
