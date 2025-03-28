@@ -1,6 +1,6 @@
 <img src = "https://github.com/user-attachments/assets/dc23140b-9ece-44d1-a746-b9ecad68bc65" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub! 🚀
   <div id="badges">
   <a href = "https://github.com/risoflorais">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou estudante de Engenharia da Computação com formação técnica em Desenvolvimento de Sistemas. Atualmente, estou focado(a) em aprender e aprimorar meus conhecimentos em várias áreas da tecnologia, e compartilho meu progresso aqui. Confira o que estou estudando:
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Aprendendo Análise de Dados: Explorando técnicas, ferramentas e boas práticas para transformar dados em insights valiosos.
+- 🌐 Aprendendo Front-End: Desenvolvendo interfaces web modernas e responsivas utilizando HTML, CSS, JavaScript e frameworks populares.
+- 🔙 Aprendendo Back-End: Estudando conceitos fundamentais de servidores, APIs, banco de dados e arquiteturas robustas.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
