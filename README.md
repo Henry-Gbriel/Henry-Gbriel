@@ -1,16 +1,7 @@
 <img src = "https://github.com/user-attachments/assets/dc23140b-9ece-44d1-a746-b9ecad68bc65" width = "325px" align = "right">
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub! 🚀
-  <div id="badges">
-<div> 
-  <a href="https://www.instagram.com/henrygabriel.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "santossilvahenrygabriel58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/henry-gabriel-santos-silva-6ba776209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-  </a>
-</div>
 
 Sou estudante de Engenharia da Computação com formação técnica em Desenvolvimento de Sistemas. Atualmente, estou focado(a) em aprender e aprimorar meus conhecimentos em várias áreas da tecnologia, e compartilho meu progresso aqui. Confira o que estou estudando:
 
